@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<StaticDataList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>2</Version>
+  <StaticDataLinks>
+    <StaticDataLink>dbo.ActionDetailIDs</StaticDataLink>
+    <StaticDataLink>dbo.FileLogIn</StaticDataLink>
+    <StaticDataLink>dbo.FilesScanned</StaticDataLink>
+    <StaticDataLink>dbo.OrdersInFile</StaticDataLink>
+    <StaticDataLink>dbo.SampleFilesCreated</StaticDataLink>
+    <StaticDataLink>dbo.SampleStaffedHours</StaticDataLink>
+    <StaticDataLink>dbo.SampleUserSessionLog</StaticDataLink>
+    <StaticDataLink>dbo.SampleWFA_UserGroupsToInclude</StaticDataLink>
+  </StaticDataLinks>
+</StaticDataList>
