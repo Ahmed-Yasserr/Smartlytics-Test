@@ -1,0 +1,3 @@
+﻿CREATE USER [local_admin]
+  WITHOUT LOGIN
+GO

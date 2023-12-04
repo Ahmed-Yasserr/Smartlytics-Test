@@ -1,0 +1,3 @@
+﻿CREATE USER [product_admin]
+  WITHOUT LOGIN
+GO
