@@ -9,6 +9,6 @@ CREATE PROCEDURE [dbo].[test_source_control]
 AS
 BEGIN
 	SET NOCOUNT ON;
-	PRINT(1)
+	PRINT(34)
 END
 GO
