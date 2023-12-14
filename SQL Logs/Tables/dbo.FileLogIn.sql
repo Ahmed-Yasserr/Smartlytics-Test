@@ -2,7 +2,7 @@
   [FileID] [int] NOT NULL,
   [UserID] [int] NOT NULL,
   [ActionID] [int] NOT NULL,
-  [FileComplete] [bit] NOT NULL,
+  [FileComplete] [bit] NULL,
   [TimeStarted] [datetime] NOT NULL,
   [TimeEnded] [datetime] NULL,
   [FileName] [varchar](50) NOT NULL,
